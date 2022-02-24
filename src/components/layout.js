@@ -39,7 +39,7 @@ const Layout = ({ children }) => {
             marginTop: `2rem`,
           }}
         >
-          © {new Date().getFullYear()}, Built with SIMO 1 -{` `}
+          © {new Date().getFullYear()}, Built with SIMO 2 -{` `}
           <a href="https://www.gatsbyjs.com">Gatsby</a>
         </footer>
       </div>
